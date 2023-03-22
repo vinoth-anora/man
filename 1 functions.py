@@ -23,12 +23,3 @@ if result!=-1:                                                                 #
     print("the index of the search  element is: ",result)                      #print the index of that number
 else:
     print(list[mid], "is value", "and", "the closest index of the target:", mid)#otherwise take the mid-1 value of that search element as index
-
-
-
-
-
-
-
-
-JH
